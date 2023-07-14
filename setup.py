@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Loan_Prediction"
 AUTHOR_USER_NAME = "harendra263"
-SRC_REPO = "loan-prediction"
+SRC_REPO = "loan_approval"
 AUTHOR_EMAIL = "harendra263@gmail.com"
 
 setuptools.setup(
